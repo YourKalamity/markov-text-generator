@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597753519 source:c:\users\kalam\documents\github\markov-text-generator\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+
